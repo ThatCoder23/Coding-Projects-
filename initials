@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+
+   std::cout << "Y      Y Y     Y\n";
+   std::cout << "  Y   Y   Y   Y \n"; 
+   std::cout << "    Y       Y   \n";
+   std::cout << "    Y       Y   \n";
+   std::cout << "    Y       Y   \n";
+   std::cout << "    Y       Y   \n";
+   std::cout << "    Y   .   Y  .\n";
+   return 0;
+
+}
